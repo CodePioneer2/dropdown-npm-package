@@ -47,7 +47,7 @@ main {
 }
 
 .dropdown-content {
-  display: block;
+  display: none;
   position: absolute;
   width: 100%;
   background-color: #f1f1f1;
@@ -56,8 +56,7 @@ main {
 }
 
 .visible {
-  background-color: red;
-  display: none;
+  display: block;
 }
 
 a {

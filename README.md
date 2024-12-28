@@ -1,6 +1,10 @@
 # dropdown-npm-package
 
-dropdown-npm-package is a javascript dropdown module published in node package manager (npm)
+javascript dropdown npm package
+
+![Dropdown closed](assets/dd-close.png)
+![Dropdown opened](assets/dd-open.png)
+
 
 ## Installation
 
