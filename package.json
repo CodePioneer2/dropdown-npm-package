@@ -1,5 +1,5 @@
 {
-  "name": "dropdown-js",
+  "name": "dropdown-js-test123",
   "version": "1.0.1",
   "main": "dropdown.js",
   "scripts": {
@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "av97",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dropdown-js-test123": "^1.0.1"
+  }
 }
