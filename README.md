@@ -4,7 +4,7 @@ javascript dropdown npm package
 
 ![Dropdown closed](assets/dd-close.png)
 ![Dropdown opened](assets/dd-open.png)
-
+[Live preview!🔥](https://codepioneer2.github.io/dropdown-npm-package/)
 
 ## Installation
 
